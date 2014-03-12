@@ -1,2 +1,2 @@
-SilentDisco
+Silent Disco
 ===========
